@@ -1,16 +1,22 @@
-### Hi there 👋
+# I'm Brendon
+<p align="center">
+  <img src="https://gpvc.arturio.dev/brendonco" alt="profile views"> •  
+  <a href="https://twitter.com/intent/follow?screen_name=brendonco2000&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/brendonco2000?label=%40brendonco2000&style=social"></a>  •
+  <a href="https://twitter.com/intent/follow?screen_name=brendonco2000&tw_p=followbutton">Twitter</a>
+</p>
 
-<!--
-**brendonco/brendonco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Created CV using ReactJS
+<a href="https://brendonco-github-io.vercel.app/" target="_blank">My CV</a>
 
-Here are some ideas to get you started:
+# Books
+- <a href="https://leanpub.com/journeytomfe" target="_blank">Journey to Micro Frontend</a></li>
+- <a href="https://www.amazon.com/BEANS-Bootstrap-ExpressJS-Socket-IO-How-JavaScript/dp/1502541149" target="_blank">BEANS Bootstrap ExpressJS AngularJS NodeJS Socket.io</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Articles
+- <a href="https://medium.com/@marvels0098/how-to-include-reactjs-app-in-docker-container-2e73068ce2d5" target="_blank">How to Include ReactJS App In Docker Container
+
+- 🔭 I’m currently working on my diet and making business owner happy
+- 👯 I’m looking to collaborate on a potential podcast
+- 👯 I love to speak about ReactJS, Micro Frontend, etc. in your Conference
+- ☕ I provide project consultation on company 
+- 📫 How to reach me: `co.brendon at yahoo dot com`

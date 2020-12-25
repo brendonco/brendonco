@@ -5,6 +5,13 @@
   <a href="https://twitter.com/intent/follow?screen_name=brendonco2000&tw_p=followbutton">Twitter</a>
 </p>
 
+---
+- 🔭 I’m currently working on my diet and making business owner happy
+- 👯 I’m looking to collaborate on a potential podcast
+- 👯 I love to speak about ReactJS, Micro Frontend, etc. in your Conference
+- ☕ I provide project consultation on company 
+- 📫 How to reach me: `co.brendon at yahoo dot com`
+
 # Created CV using ReactJS
 <a href="https://brendonco-github-io.vercel.app/" target="_blank">My CV</a>
 
@@ -14,9 +21,3 @@
 
 # Articles
 - <a href="https://medium.com/@marvels0098/how-to-include-reactjs-app-in-docker-container-2e73068ce2d5" target="_blank">How to Include ReactJS App In Docker Container
-
-- 🔭 I’m currently working on my diet and making business owner happy
-- 👯 I’m looking to collaborate on a potential podcast
-- 👯 I love to speak about ReactJS, Micro Frontend, etc. in your Conference
-- ☕ I provide project consultation on company 
-- 📫 How to reach me: `co.brendon at yahoo dot com`

@@ -1,8 +1,7 @@
 # I'm Brendon
 <p align="center">
   <img src="https://gpvc.arturio.dev/brendonco" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=brendonco2000&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/brendonco2000?label=%40brendonco2000&style=social"></a>  •
-  <a href="https://twitter.com/intent/follow?screen_name=brendonco2000&tw_p=followbutton">Twitter</a>
+  <a href="https://twitter.com/intent/follow?screen_name=brendonco2000&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/brendonco2000?label=%40brendonco2000&style=social"></a>
 </p>
 
 ---

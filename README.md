@@ -10,8 +10,7 @@
 - 👯 I love to speak about ReactJS, Micro Frontend, etc. in your Conference
 - ☕ I provide project consultation on company 
 - 📫 How to reach me: `co.brendon at yahoo dot com`
-- <a href="https://buymeacoffee.com/brendonco" target="_blank">
-Buy me a coffee here
+- <a href="https://buymeacoffee.com/brendonco" target="_blank">Buy me a coffee here
 </a>
 
   

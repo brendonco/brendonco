@@ -19,8 +19,10 @@
 <a href="https://brendonco-github-io.vercel.app/" target="_blank">My CV</a>
 
 # Books
+- <a href="https://leanpub.com/developmyfirstaicopilotusingreact" target="_blank">Develop My First AI Copilot</a>
 - <a href="https://leanpub.com/journeytomfe" target="_blank">Journey to Micro Frontend</a></li>
 - <a href="https://www.amazon.com/BEANS-Bootstrap-ExpressJS-Socket-IO-How-JavaScript/dp/1502541149" target="_blank">BEANS Bootstrap ExpressJS AngularJS NodeJS Socket.io</a>
+
 
 # Articles
 - <a href="https://medium.com/@marvels0098/how-to-include-reactjs-app-in-docker-container-2e73068ce2d5" target="_blank">How to Include ReactJS App In Docker Container
